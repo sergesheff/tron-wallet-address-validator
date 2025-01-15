@@ -1,4 +1,4 @@
-package main
+package tron
 
 import (
 	"crypto/sha256"
