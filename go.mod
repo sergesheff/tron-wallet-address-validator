@@ -1,4 +1,4 @@
-module tron-wallet-address-validator
+module github.com/sergesheff/tron-wallet-address-validator
 
 go 1.20
 
